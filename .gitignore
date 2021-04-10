@@ -28,6 +28,13 @@ nbactions.xml
 # gradle stuff
 .gradle/
 build/
+# huangchengwei 20210410
+gradle/caches
+gradle/build-scan-data/
+gradle/daemon/
+gradle/native/
+gradle/wrapper/dists/
+gradle/wrapper/gradle-6.5-all.zip
 
 # vscode stuff
 .vscode/
